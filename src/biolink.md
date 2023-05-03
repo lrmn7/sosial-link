@@ -19,14 +19,14 @@ socialLinks:
     url: https://discord.gg/WFfjrQxnfH
   - name: spotify
     url: https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/
-  - name: tiktok
-    url: https://www.tiktok.com/@romanroman.nya
   - name: pinterest
     url: https://id.pinterest.com/romanromannya/
   - name: twitter
     url: https://twitter.com/romanromannya
   - name: instagram
     url: https://www.instagram.com/romanroman.nya
+  - name: tiktok
+    url: https://www.tiktok.com/@romanroman.nya
   - name: youtube
     url: https://www.youtube.com/@LRMN_vp/
   - name: website

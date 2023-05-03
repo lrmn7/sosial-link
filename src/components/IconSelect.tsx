@@ -18,6 +18,7 @@ import {
   SlackLogo,
   Phone,
   PinterestLogo,
+  TiktokLogo,
 } from "@phosphor-icons/react";
 
 type Props = {
@@ -51,6 +52,7 @@ const IconSelect = ({ name }: Props) => {
       {name === "phone" && <Phone />}
       {name === "mail" && <Envelope />}
       {name === "location" && <MapPinLine />}
+      {name === "tiktok" && <TiktokLogo />}
     </IconContext.Provider>
   );
 };
