@@ -7,7 +7,7 @@ links:
     url: https://lrmn.site/about
   - name: "Open Source Contributors"
     url: https://github.com/lrmn7
-  - name: "Virtual Photographer / Blog"
+  - name: "Virtual Photography / Blog"
     url: https://lrmn-vp.site
   - name: "Pagar Rumah Kita / Blog"
     url: https://www.pagarrumahkita.my.id/
