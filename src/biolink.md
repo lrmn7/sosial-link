@@ -13,6 +13,8 @@ links:
     url: https://www.pagarrumahkita.my.id/
   - name: "Istirahat Sejenak / Blog"
     url: https://istirahatsejenak.biz.id/
+  - name: "Artstation.com"
+    url: https://www.artstation.com/romanromannya
 
 socialLinks:
   - name: discord
@@ -29,10 +31,7 @@ socialLinks:
     url: https://www.tiktok.com/@romanroman.nya
   - name: youtube
     url: https://www.youtube.com/@LRMN_vp/
-  - name: website
-    url: https://artstation.com/romanromannya
-  - name: mail
-    url: mailto:619cogitoergosum@gmail.com
+    
 customize:
   fontFamily: "Space Grotesk"
   theme: dark
