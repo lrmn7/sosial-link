@@ -2,7 +2,7 @@
 
 Create a simple bio-link page from the markdown file with Next.js and TailwindCSS.
 
-![biolink-starter][https://cdn.discordapp.com/attachments/1091192083852828744/1103336974212935690/235451680-020df14d-6e3e-4570-adec-e00609287a65.png]
+![biolink-starter](https://cdn.discordapp.com/attachments/1091192083852828744/1103336974212935690/235451680-020df14d-6e3e-4570-adec-e00609287a65.png)
 
 ## Customize your Sosial Link
 
